@@ -25,9 +25,9 @@ I am constantly exploring new libraries and techniques to expand my knowledge an
 If you have any questions or would like to collaborate on a project, please don't hesitate to reach out. You can contact me through my email or through LinkedIn.
 
 - :e-mail: lukas.k0325@gmail.com
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+- [![linkedIn icon](images/linkedIn-icon.png): LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/lukas-k%C3%A4llstr%C3%B6m-6aa3601b9/-
+[linkedin]: https://www.linkedin.com/in/lukas-k%C3%A4llstr%C3%B6m-6aa3601b9/
 
 Thank you for visiting my GitHub profile!
 
